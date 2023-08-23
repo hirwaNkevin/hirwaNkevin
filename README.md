@@ -8,3 +8,11 @@ I’m a enthusiastic web developer. Who is passionate about Frontend development
  ## 📱 Social
  📫 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:hirwankevin@gmail.com)
 [![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FkevinHirwaN&style=flat&logo=Twitter&logoColor=blue&label=%40kevinHirwaN&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2FkevinHirwaN)](https://twitter.com/kevinHirwaN)
+
+## 📈 Stats
+ <a href="https://github.com/hirwaNkevin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hirwaNKevin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></a>
+ <a href="https://github.com/hirwaNkevin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwaNKevin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"></a>
+    
+ <a href="https://github.com/hirwaNkevin"><img  style="display:block;margin: auto;" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hirwaNKevin&theme=tokyonight&hide_border=true"></a>
