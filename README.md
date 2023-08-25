@@ -5,7 +5,7 @@ I’m a enthusiastic web developer. Who is passionate about Frontend development
  [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)](https://developer.mozilla.org/en-US/docs/Web/CSS)
  [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)](https://developer.mozilla.org/en-US/docs/Web/javascript)  
 
- ## 📱 Social
+ ## 📱 Let's Connect
  📫 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:hirwankevin@gmail.com)
 [![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FkevinHirwaN&style=flat&logo=Twitter&logoColor=blue&label=%40kevinHirwaN&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2FkevinHirwaN)](https://twitter.com/kevinHirwaN)
 
