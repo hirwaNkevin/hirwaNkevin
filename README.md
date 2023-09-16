@@ -20,4 +20,4 @@ I’m a enthusiastic web developer. Who is passionate about Frontend development
  <a href="https://github.com/hirwaNkevin"><img  style="display:block;margin: auto;" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hirwaNKevin&theme=tokyonight&hide_border=true"></a>
 
 ## 🛠️ Currently working on
-[💻 es6-modules-practice-login-signup-component](https://github.com/hirwaNkevin/es6-modules-practice-login-signup-component)
+[💻 delecta-static ](https://github.com/hirwaNkevin/delecta-static)
