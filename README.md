@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @hirwaNkevin
 I am an enthusiastic web developer with a strong passion for Frontend development. My current focus lies in expanding my expertise in Frontend development, with plans to transition into the field of Data Science in the future. I am actively seeking opportunities to collaborate on Frontend projects, as I believe that collaborative efforts are instrumental in achieving excellence in web development.    
  ## ⚙️ Tech stacks
- - 🌐 Frontend
+ - 🌐 Frontend  
      [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)](https://developer.mozilla.org/en-US/docs/Web/HTML)
      [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)](https://developer.mozilla.org/en-US/docs/Web/CSS)
      [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)](https://developer.mozilla.org/en-US/docs/Web/javascript) 
