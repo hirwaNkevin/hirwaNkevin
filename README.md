@@ -15,6 +15,7 @@ I am an enthusiastic web developer with a strong passion for Frontend developmen
      [![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=plastic)](https://github.com/hirwaNkevin)
    
  - 🤖 Data Science  
+     [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)](https://github.com/hirwaNkevin)
      [![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic)](https://github.com/hirwaNkevin)
      [![SciPy Badge](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=plastic)](https://github.com/hirwaNkevin)
    
