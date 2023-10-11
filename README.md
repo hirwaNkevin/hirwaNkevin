@@ -8,12 +8,6 @@ I am an enthusiastic web developer with a strong passion for Frontend developmen
    [![My Skills](https://skillicons.dev/icons?i=postman,vscode)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    [![My Skills](https://skillicons.dev/icons?i=figma)](https://github.com/hirwaNkevin)  
 
-   [![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=plastic)](https://github.com/hirwaNkevin)
-
-   [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)](https://github.com/hirwaNkevin)
-   [![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic)](https://github.com/hirwaNkevin)
-   [![SciPy Badge](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=plastic)](https://github.com/hirwaNkevin)
-
  ## 📱 Let's Connect  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:hirwankevin@gmail.com) 
 [![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FkevinHirwaN&style=flat&logo=Twitter&logoColor=blue&label=%40kevinHirwaN&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2FkevinHirwaN)](https://twitter.com/kevinHirwaN)
