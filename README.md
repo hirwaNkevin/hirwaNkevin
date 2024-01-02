@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Kevin H. Nzitarira
 I am an enthusiastic web developer with a strong passion for Frontend development. My current focus lies in expanding my expertise in Frontend web development. I am actively seeking opportunities to collaborate on Frontend web projects, as I believe that collaborative efforts are instrumental in achieving excellence in web development.    
  ## ⚙️ Tech stacks
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![My Skills](https://skillicons.dev/icons?i=react)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![My Skills](https://skillicons.dev/icons?i=react)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
-   [![My Skills](https://skillicons.dev/icons?i=nodejs,py,django,spring)](https://github.com/hirwaNkevin)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <!--[![My Skills](https://skillicons.dev/icons?i=nodejs,py,django,spring)](https://github.com/hirwaNkevin)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    [![My Skills](https://skillicons.dev/icons?i=vite)](https://github.com/hirwaNkevin)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    [![My Skills](https://skillicons.dev/icons?i=postman,vscode)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   [![My Skills](https://skillicons.dev/icons?i=figma)](https://github.com/hirwaNkevin)  
+   [![My Skills](https://skillicons.dev/icons?i=figma)](https://github.com/hirwaNkevin)  -->
 
  ## 📱 Let's Connect  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:hirwankevin@gmail.com) 
@@ -21,5 +21,5 @@ I am an enthusiastic web developer with a strong passion for Frontend developmen
     
  <a href="https://github.com/hirwaNkevin"><img  style="display:block;margin: auto;" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hirwaNKevin&theme=tokyonight&hide_border=true"></a>
 
-## 🛠️ Currently working on  
-[💻 twitter-clone-react ](https://github.com/hirwaNkevin/twitter-clone-react)
+<!-- ## 🛠️ Currently working on  
+[💻 twitter-clone-react ](https://github.com/hirwaNkevin/twitter-clone-react)-->
