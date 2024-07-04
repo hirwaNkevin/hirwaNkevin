@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kevin H. Nzitarira
+# 👋 Hi, I’m K.H. Nzitarira
 I am an enthusiastic web developer with a strong passion for Frontend development. My current focus lies in expanding my expertise in Frontend web development. I am actively seeking opportunities to collaborate on Frontend web projects, as I believe that collaborative efforts are instrumental in achieving excellence in web development.    
  ## ⚙️ Tech stacks
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![My Skills](https://skillicons.dev/icons?i=react)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
