@@ -1,7 +1,8 @@
 # 👋 Hi, I’m K.H. Nzitarira
-I am an enthusiastic web developer with a strong passion for Frontend development. My current focus lies in expanding my expertise in Frontend web development. I am actively seeking opportunities to collaborate on Frontend web projects, as I believe that collaborative efforts are instrumental in achieving excellence in web development.    
+Full Stack Web developer with more than 5 years of experience designing and developing software systems across diverse fields and projects including e-commerce, portfolio websites, and local governance applications. Proven skills in frontend and backend development, with a strong foundation in UI/UX design. Committed to leveraging technology to enhance community welfare.
  ## ⚙️ Tech stacks
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![My Skills](https://skillicons.dev/icons?i=react)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <!--[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
+   [![My Skills](https://skillicons.dev/icons?i=react,django,flask)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
    <!--[![My Skills](https://skillicons.dev/icons?i=nodejs,py,django,spring)](https://github.com/hirwaNkevin)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    [![My Skills](https://skillicons.dev/icons?i=vite)](https://github.com/hirwaNkevin)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -10,9 +11,9 @@ I am an enthusiastic web developer with a strong passion for Frontend developmen
 
  ## 📱 Let's Connect  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](mailto:hirwankevin@gmail.com) 
-[![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FkevinHirwaN&style=flat&logo=Twitter&logoColor=blue&label=%40kevinHirwaN&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2FkevinHirwaN)](https://twitter.com/kevinHirwaN)
+<!--[![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FkevinHirwaN&style=flat&logo=Twitter&logoColor=blue&label=%40kevinHirwaN&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2FkevinHirwaN)](https://twitter.com/kevinHirwaN)-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)](https://www.linkedin.com/in/kevin-hirwa-nzitatira-623022281/)
-[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff&style=plastic)](https://www.upwork.com/freelancers/~0197ce3fd6a5e18f08)
+<!--[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff&style=plastic)](https://www.upwork.com/freelancers/~0197ce3fd6a5e18f08)-->
 ## 📈 Stats
  <a href="https://github.com/hirwaNkevin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hirwaNKevin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"></a>
