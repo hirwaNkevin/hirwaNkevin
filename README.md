@@ -1,5 +1,5 @@
 # 👋 Hi, I’m K.H. Nzitarira
-Full Stack software engineer with more than 5 years of experience designing and developing software systems across diverse fields and projects including e-commerce, portfolio websites, and local governance applications. Proven skills in frontend and backend development, with a strong foundation in UI/UX design. Committed to leveraging technology to enhance community welfare.
+Full-Stack engineer with more than 5 years of experience designing and developing software systems across diverse fields and projects including e-commerce, portfolio websites, and local governance applications. Proven skills in frontend and backend development, with a strong foundation in UI/UX design. Committed to leveraging technology to enhance community welfare.
  ## ⚙️ Tech stacks
    <!--[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
    [![My Skills](https://skillicons.dev/icons?i=react,django,flask)](https://github.com/hirwaNkevin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
